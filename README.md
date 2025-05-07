@@ -1,5 +1,6 @@
 # Emotion Recognition from EEG with LSTM & Transformer
 This project deploys a strong deep learning model for emotion classification based on EEG signals. It leverages the strength of LSTM networks and multi-head self-attention Transformers to classify emotions into three categories: positive, negative, and neutral. The model is 97.89% accurate, demonstrating its ability to capture both short-term and long-range patterns in brain activity.
+
 # Overview
 Emotions are central to human-computer interaction and cognitive computing. Facial expression or voice-based traditional emotion detection is not always accurate. EEG signals, representing electrical activity in the brain, give more insight into the emotional state of a person.
 
@@ -58,7 +59,8 @@ Final classification layer
 # Outputs probabilities for each emotion class
 
 # Results
-# Metric	Value
+Metric	Value
+
 Accuracy	97.89%
 
 Precision	97.85%
